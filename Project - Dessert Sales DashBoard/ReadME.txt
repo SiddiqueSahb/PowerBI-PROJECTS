@@ -1,4 +1,4 @@
-Chocolate Sales Analytics
+Dessert Sales Analytics
 
 Sales Boxes costs and profits
 
