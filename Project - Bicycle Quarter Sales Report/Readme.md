@@ -29,3 +29,6 @@ This repository contains the **Quarterly Sales Performance Report** for **Advent
 ## How to Use This Repository
 - The analysis is presented in **PDF format**.
 - Visual data representation highlights key trends.
+
+- ![Screenshot (3)](https://github.com/user-attachments/assets/825241dd-7002-4c7a-8061-8fed30266a7b)
+
